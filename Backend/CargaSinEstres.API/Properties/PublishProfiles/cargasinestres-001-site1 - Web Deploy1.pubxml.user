@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2023-11-18T21:43:22.0396309Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>server=monorail.proxy.rlwy.net%3buser=root%3bpassword=Ce1DC4aG3BBeDhh454eAbdCGAfFD5242%3bdatabase=railway%3bport=24663%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

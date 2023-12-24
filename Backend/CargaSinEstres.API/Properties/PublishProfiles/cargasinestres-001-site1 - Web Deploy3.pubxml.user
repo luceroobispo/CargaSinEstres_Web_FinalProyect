@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2023-11-19T02:27:01.0820406Z;False|2023-11-18T21:26:14.4087069-05:00;True|2023-11-18T21:20:26.5664534-05:00;True|2023-11-18T21:14:55.3442268-05:00;False|2023-11-18T21:13:17.2926409-05:00;False|2023-11-18T21:12:37.0930230-05:00;True|2023-11-18T19:46:04.9083051-05:00;False|2023-11-18T19:44:56.0400606-05:00;False|2023-11-18T19:44:01.7553825-05:00;True|2023-11-18T19:40:34.4113007-05:00;False|2023-11-18T19:40:08.2124884-05:00;True|2023-11-18T19:29:58.8479224-05:00;True|2023-11-18T18:49:48.0345144-05:00;True|2023-11-18T18:30:58.5215003-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=MYSQL5045.site4now.net%3bDatabase=db_aa1acf_root%3bUid=aa1acf_root%3bPwd=ceyok10783</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
